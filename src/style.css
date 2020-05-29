@@ -1,0 +1,53 @@
+h1, p {
+  font-family: Roboto;
+}
+.text {
+  text-transform: capitalize;
+}
+      
+#customization {
+  display: table;
+  margin: 0 auto;
+}
+
+.animate {
+  display: table-cell;
+  padding: 10px;
+}
+
+.control-pane .dialog-target {
+  min-height: 350px;
+}
+
+body{
+  padding : 20px
+}
+
+.title{
+  text-align: center;
+  border-bottom: 1px dashed lightgray;
+  margin-bottom: 20px;
+  font-size: 40px;
+  text-decoration: underline;
+  color: #e3165b;
+}
+
+.buttonStyle{
+  margin: 10px;
+  font-size: 30px;
+}
+
+.imageStyle {
+  margin: auto;
+  display: block;
+}
+
+.remainingCount{
+  font-size:  15px;
+  float: left;
+}
+
+.time{
+  float: right;
+  font-size: 15px;
+}

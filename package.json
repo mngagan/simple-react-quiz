@@ -1,0 +1,35 @@
+{
+  "name": "todo-react-app",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@syncfusion/ej2-react-popups": "^18.1.53",
+    "bulma": "0.7.1",
+    "jquery": "^3.5.1",
+    "list-react-files": "^0.2.0",
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "underscore": "^1.10.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
